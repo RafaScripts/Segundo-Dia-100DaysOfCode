@@ -52,4 +52,20 @@ console.log(!(Nome));
  
 //console.log(nome);
 
+/*************************************************************************************/
+console.log("---------------------------------------------------------------");
+/*************************************************************************************/
+
+/** Alertas 
+ * 
+ * Alertas no JavaScript pode sem feitos de varias formas, apresentada a seguir 2 delas
+ * 
+ * Exemplos:
+ * 
+ */
+
+const completo = prompt("Qual o seu nome completo:");
+
+alert("Ola " + completo);
+console.log(completo);
 
