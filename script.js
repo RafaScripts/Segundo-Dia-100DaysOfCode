@@ -69,3 +69,11 @@ const completo = prompt("Qual o seu nome completo:");
 alert("Ola " + completo);
 console.log(completo);
 
+const teste = prompt("quanto é 2 + 2 ?");
+
+if (teste == 4) {
+  alert("Acesso permitido.")
+} else {
+  alert("Acesso Negado.")
+}
+
