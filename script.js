@@ -77,3 +77,4 @@ if (teste == 4) {
   alert("Acesso Negado.")
 }
 
+alert("algo");
